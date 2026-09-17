@@ -134,19 +134,20 @@
 
 ## 3. 使用方法
 
-### 3.1 环境要求
+### 3.1 安装包使用
+
+- 下载[MouseHelper](https://github.com/mosbyxsy/MouseHelper/releases)到本地；
+- 双击`MouseHelper-v1.x.x.exe`运行。
+
+> 注意：
+> - 无需安装，直接双击运行；
+> - 使用安装包时，不需要安装AutoHotkey。
+
+### 3.2 安装与运行脚本
 
 
 
-* Windows 7 及以上系统
-
-* 安装 **AutoHotkey v2**：[https://www.autohotkey.com/](https://www.autohotkey.com/)
-
-### 3.2 安装与运行
-
-
-
-1. 安装 AutoHotkey v2（安装时选择 v2 版本）；
+1. 安装 **AutoHotkey v2**：[https://www.autohotkey.com/](https://www.autohotkey.com/)（安装时选择 v2 版本）；
 
 2. 双击运行 `MouseHelper.ahk`；
 

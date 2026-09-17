@@ -6,14 +6,14 @@
 > 长按右键即可把滚轮变成方向键 / 横向滚动（也支持无需右键的全局模式），把侧键变成复制 / 粘贴，并提供误触保护与双击快捷切换，让普通鼠标拥有更多快捷能力。
 
 
+* **快速使用**：下载[MouseHelper](https://github.com/mosbyxsy/MouseHelper/releases)双击运行。
 
 * **脚本文件**：`MouseHelper.ahk`
 
 * **运行环境**：Windows + AutoHotkey v2.0 或更高版本
 
 * **退出方式**：按 `Ctrl+Alt+Q`，或右键托盘图标 → Exit
-
-
+  
 
 ***
 
